@@ -1,4 +1,4 @@
 # follow_me
-An application with a board on which the mouse behavior is monitored and visualizes through the overflow of colors of squares
+Отслеживается поведение мыши и визиализируется путем изменения цвета квадратов на доске.
 
-[Open project](https://mkotolevsky.github.io/follow_me/)
+[Открыть](https://mkotolevsky.github.io/follow_me/)
